@@ -1,0 +1,14 @@
+{
+  "sistema": "Vilas Motor",
+  "tipo": "Prueba local de rendimiento",
+  "fecha": "2026-10-27T20:19:36.264Z",
+  "node": "v24.16.0",
+  "endpoint": "/api/fleet",
+  "peticiones": 50,
+  "metodo": "50 GET autenticadas secuenciales, servidor aislado, SQLite temporal vacía",
+  "promedio_ms": 1,
+  "p95_ms": 1.92,
+  "maximo_ms": 2.03,
+  "errores_http": 0,
+  "limitacion": "No representa concurrencia, volumen real de equipos ni rendimiento empresarial."
+}
